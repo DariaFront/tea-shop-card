@@ -27,4 +27,4 @@ assets/tea-placeholder.svg  — локальная резервная иллюс
 
 ## Как сайт
 
-Перейдите по ссылке и посмотрите работу в страницы https://dariafront.github.io/tea-shop-card/
+Ознакомиться с результатом работы можно по ссылке: https://dariafront.github.io/tea-shop-card/
